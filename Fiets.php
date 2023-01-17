@@ -57,5 +57,10 @@
             {
                 return $this -> afbeelding;
             }
-        }
+        
+        // public function __get($name)
+        // {
+        //     return $this -> $name;
+        // }
+    }
     ?>
